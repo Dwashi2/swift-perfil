@@ -31,8 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-pokedex/blob/main/1.png" width="248">
-  <img src="https://github.com/Dwashi2/swift-pokedex/blob/main/2.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/2.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/3.png" width="248">
 </p>
  
  
